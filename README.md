@@ -14,6 +14,7 @@ The topic is covered in the following notebooks:
     
     UX 1 When and What of UX?
     UX 2 Collecting data
+    UX 3 Descriptive Statistics
     
     
 It is my hope that after going through the book and exercises, you should feel confident enough to plan some basic user tests as well as pick up a book on statistics, and work out what type of measurement instruments and analysis that are appropriate to use for a particular evaluation.  
