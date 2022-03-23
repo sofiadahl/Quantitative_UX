@@ -1,6 +1,6 @@
 # Quantitative_UX
 Jupyter notebooks with an introduction to Usability testing and analysis of quantitive data, including simple python (Pandas) exercises. 
-Authored with some reference to Sauro and Lewis (2016)  "Quantifying the User Experience", Morgan Kaufmann publishing but expanding somewhat beyond the topic. Specifically, this interactive book aims to provide more insights into descriptive statistics and plotting, as well as the assumptions for parametric tests.
+Authored with some reference to Sauro and Lewis (2016)  "Quantifying the User Experience", Morgan Kaufmann publishing but expanding somewhat beyond the topic. Specifically, this interactive book aims to provide more insights into descriptive statistics and plotting, as well as probability and the assumptions for parametric tests.
 
 The material is produced to be used for the BSc course UX: kvantitativ brugerevaluering for Medialogy students at Aalborg University, but I hope it will be useful
 also as a general intro /recap for others. It is also possible to run the code without specific installation using colab  
