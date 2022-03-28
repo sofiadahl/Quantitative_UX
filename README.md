@@ -17,7 +17,7 @@ The topic is covered in the following notebooks:
     UX 3 Descriptive Statistics
     UX 4 Validity and Reliability
     UX 5 Inferential Statistics
-    
+    UX 6 Detecting Effects
     
 It is my hope that after going through the book and exercises, you should feel confident enough to plan some basic user tests as well as pick up a book on statistics, and work out what type of measurement instruments and analysis that are appropriate to use for a particular evaluation.  
 
