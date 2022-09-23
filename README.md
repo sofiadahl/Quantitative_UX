@@ -23,7 +23,7 @@ The topic is covered in the following notebooks:
     
 It is my hope that after going through the book and exercises, you should feel confident enough to plan some basic user tests as well as pick up a book on statistics, and work out what type of measurement instruments and analysis that are appropriate to use for a particular evaluation.  
 
-It should be possible to follow and do most of the "think-and-do" try outs without particular skills in python or mathematics.
+It should be possible to follow and do most of the "think-and-do" try outs without particular skills in python or mathematics. It is also possible to do online via colab: https://colab.research.google.com/github/sofiadahl/Quantitative_UX/blob/main/
 For those that would like a brief introduction to Python please check out software-carpentry https://software-carpentry.org/lessons/ and the quick intro to pandas, https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html.
 
 Thanks to Kristinn Bragi Garðarsson for proofreading, helpful comments and suggestions. 
