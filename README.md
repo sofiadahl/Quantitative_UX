@@ -25,5 +25,6 @@ It is my hope that after going through the book and exercises, you should feel c
 
 It should be possible to follow and do most of the "think-and-do" try outs without particular skills in python or mathematics. It is also possible to do online via colab: https://colab.research.google.com/github/sofiadahl/Quantitative_UX/blob/main/
 For those that would like a brief introduction to Python please check out software-carpentry https://software-carpentry.org/lessons/ and the quick intro to pandas, https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html.
+A more comprehensive intro to pandas and data analysis with python can be found here https://wesmckinney.com/book/preliminaries
 
 Thanks to Kristinn Bragi Garðarsson for proofreading, helpful comments and suggestions. 
