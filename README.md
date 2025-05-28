@@ -21,6 +21,7 @@ The topic is covered in the following notebooks:
     UX 7 Comparing Values
     UX 8 Correlation and Regression
     UX 9 ANOVA
+    UX10 Repeated Measures ANOVA
     
 It is my hope that after going through the book and exercises, you should feel confident enough to plan some basic user tests as well as pick up a book on statistics, and work out what type of measurement instruments and analysis that are appropriate to use for a particular evaluation.  
 
